@@ -1,0 +1,158 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:'나눔 고딕','NanumGothic','맑은고딕',Gothic;
+
+}
+above{
+	text-decoration:none;
+}
+li{
+	list-style:none;
+}
+body
+{
+	width:960px;
+	text-align:center;
+	background:#E6E6E6;
+}
+#page-wrapper
+{
+	background:#FFFFFF;
+	margin-top:10px;
+	margin-left:0px;
+	margin-right:20px;
+	margin-bottom:40px;
+	padding-bottom:10px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:10px;
+	border-radius:5px
+	box-shadow:0px 2px 6px rgba(100, 100, 100, 0.3);
+}
+#main-header
+{
+	padding-top:40px;
+	padding-bottom:40px;
+	padding-left:50px;
+	padding-right:50px;
+}
+.master-title 
+{
+	font-size:30px;
+	color:#383838;
+	font-weight:500;
+}
+#main-nav
+{
+	border-bottom-width:1px;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-bottom-color:#C8C8C8;
+	border-top-color:#C8C8C8;
+	margin-bottom: 20px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+	height:40px;
+  align:left;
+}
+.outer-menu-item
+{
+	text-align:left;
+}
+.menu-title
+{
+	display:block;
+	height:30px;
+	text-align:center;
+	color:#000000;
+	padding-bottom:5px;
+	padding-left:20px;
+	padding-top:5px;
+	padding-right:20px;
+}
+.menu-title a:hover
+{
+	color:#FFFFFF
+}
+.menu-title a:visited
+{
+	color:##FFFF00
+}
+#content
+{
+	overflow:hidden;
+}
+#main-aside
+{
+	width:200;
+	text-align:right;
+}
+#main-section
+{
+	text-align:left;
+	width:710;
+}
+article
+{
+	padding-bottom:20px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:0px;
+	border-bottom-color:#C8C8C8;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+}
+.article-deta
+{
+	font-size:13px;
+}
+.article-header
+{
+	padding-bottom:20px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:20px;
+}
+.article-body
+{
+		font-size:14px;
+}
+.article-title{
+	font-weight:500;
+	font-size:25px;
+	padding-bottom:10px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	
+}
+.asside-list
+{
+	padding-bottom:30px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:10px;
+  top:400px;
+}
+h3
+{
+	font-weight: 600;
+	font-size:15px;
+}
+.asside-list  a{
+		color:#6C6C6C;
+		font-size:13px;
+		margin-bottom:0px;
+		margin-left:8px;
+		margin-right:0px;
+		margin-top:0px;
+		
+}
+footer
+{
+	font-size:10px;
+	color:#666666;
+}
